@@ -42,6 +42,10 @@ body{
 }
 
 /* navbar */
+nav{
+  background-color: white;
+}
+
 nav .navbar-nav a{
   margin-left: 2rem;
 }
@@ -49,6 +53,7 @@ nav .navbar-nav a{
 /* hero */
 .hero{
   height: 90vh;
+  margin: 5rem 0;
 }
 
 /* about */
